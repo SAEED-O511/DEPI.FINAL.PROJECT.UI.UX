@@ -12,11 +12,11 @@ Pages
 ### Page Two – Documents the second UX step, which is Card Sorting and the User Flow.
 
 ## TEAM WORKING ON IT 
-1-saeed
-2- walaa
-3-sara
-4-hazem
-5-nada
-6-marina
+#### الاسم :سعيد اسامه سعيد 
+#### الاسم:حازم مدحت ابراهيم
+#### الاسم :مارينا حنين ميخائيل 
+#### الاسم :ولاء جمال ابراهيم 
+#### الاسم :اسمي ندي ايفاد عبدالمقصود
+#### الاسم : ساره محمد شره
 ## figma link ==> 
 ## https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=0-1&t=wzNkEceBdqMNypHP-1
