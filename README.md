@@ -12,11 +12,12 @@ DEPI.FINAL.PROJECT.UI.UX
 #### Page Two – Documents the second UX step, which is Card Sorting and the User Flow.
 
 ### TEAM WORKING ON IT 
-#### الاسم :سعيد اسامه سعيد 
+#### الاسم :سعيد اسامه سعيد
+#### الاسم :ولاء جمال ابراهيم
+#### الاسم :ندي ايفاد عبدالمقصود
 #### الاسم:حازم مدحت ابراهيم
 #### الاسم :مارينا حنين ميخائيل 
-#### الاسم :ولاء جمال ابراهيم 
-#### الاسم :اسمي ندي ايفاد عبدالمقصود
+#### الاسم :ندي ايفاد عبدالمقصود
 #### الاسم : ساره محمد شره
 ### figma link ==> 
 #### https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=0-1&t=wzNkEceBdqMNypHP-1
