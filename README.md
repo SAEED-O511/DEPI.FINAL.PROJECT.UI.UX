@@ -17,7 +17,6 @@ DEPI.FINAL.PROJECT.UI.UX
 #### الاسم :ندي ايفاد عبدالمقصود
 #### الاسم:حازم مدحت ابراهيم
 #### الاسم :مارينا حنين ميخائيل 
-#### الاسم :ندي ايفاد عبدالمقصود
 #### الاسم : ساره محمد شره
 ### figma link ==> 
 #### https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=0-1&t=wzNkEceBdqMNypHP-1
