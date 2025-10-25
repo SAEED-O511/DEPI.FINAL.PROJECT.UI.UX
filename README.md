@@ -9,8 +9,11 @@ DEPI.FINAL.PROJECT.UI.UX
 
 ### Figma Pages
 #### Page One – Contains the Strategy phase of the UX process, along with the initial sketches and wireframes.
+https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=0-1&p=f&t=yFuTUu0cIxf6Yag4-0
 #### Page Two – Documents the second UX step, which is Card Sorting and the User Flow.
+https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=55-884&p=f&t=yFuTUu0cIxf6Yag4-0
 #### Page three – high and mid wireframes.
+https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=88-1365&p=f&t=yFuTUu0cIxf6Yag4-0
 
 
 ### TEAM WORKING ON IT 
