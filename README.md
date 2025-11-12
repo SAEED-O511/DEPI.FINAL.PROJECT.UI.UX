@@ -6,14 +6,20 @@ DEPI.FINAL.PROJECT.UI.UX
 #### A PDF document detailing the scope and process.
 #### A PDF document detailing the 🌿 Narrative Brand Story – توازن.
 #### A README file with the team members list and a Figma link.
+#### A Folder contain Case study
+
 
 ### Figma Pages
+### Case study (final screeen UI and UX) 
+https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=136-4685&p=f&t=Zb8ZQ72YCZ1DjuqW-0
 #### Page One – Contains the Strategy phase of the UX process, along with the initial sketches and wireframes.
 https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=0-1&p=f&t=yFuTUu0cIxf6Yag4-0
 #### Page Two – Documents the second UX step, which is Card Sorting and the User Flow.
 https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=55-884&p=f&t=yFuTUu0cIxf6Yag4-0
 #### Page three – high and mid wireframes.
 https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=88-1365&p=f&t=yFuTUu0cIxf6Yag4-0
+#### Page three – Screens
+https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=136-4684&p=f&t=Zb8ZQ72YCZ1DjuqW-0
 
 
 ### TEAM WORKING ON IT 
@@ -24,4 +30,4 @@ https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=88-1365&p=f&
 #### الاسم :مارينا حنين ميخائيل 
 #### الاسم : ساره محمد شره
 ### figma link ==> 
-#### https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=0-1&t=wzNkEceBdqMNypHP-1
+#### https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=136-4685&p=f&t=Zb8ZQ72YCZ1DjuqW-0
