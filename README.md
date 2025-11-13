@@ -3,12 +3,12 @@ DEPI.FINAL.PROJECT.UI.UX
 
 ## This repository currently includes:
 
-#### A PDF document detailing the scope and process.
+#### A Folder contain Case study & All Ui Ux Process
 #### A PDF document detailing the 🌿 Narrative Brand Story – توازن.
 #### A README file with the team members list and a Figma link.
-#### A Folder contain Case study
 
-
+### Behance
+https://www.behance.net/gallery/238446335/Tawazon
 ### Figma Pages
 ### Case study (final screeen UI and UX) 
 https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=136-4685&p=f&t=Zb8ZQ72YCZ1DjuqW-0
