@@ -32,5 +32,3 @@ https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=136-4684&p=f
 #### الاسم:حازم مدحت ابراهيم
 #### الاسم :مارينا حنين ميخائيل 
 #### الاسم : ساره محمد شره
-### GENERAL figma link ==> 
-#### https://www.figma.com/design/XIewMEFFRJsQ6isEWtDFTg/G563_P3?node-id=136-4685&p=f&t=Zb8ZQ72YCZ1DjuqW-0
